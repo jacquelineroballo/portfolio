@@ -2,6 +2,7 @@
 
 Portfolio realizado en el año 2020 luego de completar un bootcamp intensivo de Desarrollo Web Fullstack.
 
-![imagen](https://github.com/jacquelineroballo/portfolio/assets/30833076/e49001a4-220b-404d-a40f-0abe2801ea92)
+![Screenshot 2024-09-24 at 13-15-31 Mi Portfolio](https://github.com/user-attachments/assets/24bdf2e5-1202-464b-ad09-00d380473e66)
+
 
 
