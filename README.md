@@ -2,7 +2,6 @@
 
 Portfolio realizado en el año 2020 luego de completar un bootcamp intensivo de Desarrollo Web Fullstack.
 
-![Screenshot 2024-09-24 at 13-15-31 Mi Portfolio](https://github.com/user-attachments/assets/24bdf2e5-1202-464b-ad09-00d380473e66)
-
+![Screenshot 2024-10-22 at 18-48-58 Mi Portfolio](https://github.com/user-attachments/assets/837cf430-9a1e-41d0-9cdc-09db2766c5c2)
 
 
